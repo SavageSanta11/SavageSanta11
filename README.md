@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavageSanta11&show_icons=true&theme=blue-green)
 
+![Aditi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SavageSanta11&theme=blue-green&hide_border=true)
+
