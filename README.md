@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi
 
 <!--
 **SavageSanta11/SavageSanta11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 ![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavageSanta11&show_icons=true&theme=merko)
 
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=SavageSanta11&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
