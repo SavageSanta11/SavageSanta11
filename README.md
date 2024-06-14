@@ -34,20 +34,13 @@ Here are some ideas to get you started:
 
 </br>
 
+
 <p align="center">
-  ![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavageSanta11&show_icons=true&theme=blue-green)
+  <img src="https://github-readme-stats.vercel.app/api?username=SavageSanta11&show_icons=true&theme=blue-green">
 </p>
 
 <p align="center">
-  ![Aditi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SavageSanta11&theme=blue-green&hide_border=false)
-</p>
-
-<p align="center">
-  <img src="[https://readme-stats-cwvn.vercel.app/api?username=ReaVNaiL&custom_title=ReaVNaiL+-+Daniel+Maya.+&border_color=47f0d9&show_icons=true&count_private=true&theme=gotham](https://github-readme-stats.vercel.app/api?username=SavageSanta11&show_icons=true&theme=blue-green)">
-</p>
-
-<p align="center">
-  <img height="225" width="450" src="[https://readme-stats-cwvn.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d9](https://github-readme-streak-stats.herokuapp.com/?user=SavageSanta11&theme=blue-green&hide_border=false)"/>
+  <img height="225" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=SavageSanta11&theme=blue-green&hide_border=false"/>
 </p>
 
 
