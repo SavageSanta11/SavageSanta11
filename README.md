@@ -15,22 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
-<p align="center">
-  </br>
-  <code><img title="Python" height="35" src="./icons/python.svg"></code>
-  <code><img title="C++ Programming" height="35" src="./icons/c++.svg"></code>
-  <code><img title="JavaScript" height="35" src="./icons/javascript.svg"></code>
-  <code><img title="ReactJS" height="35" src="./icons/react.svg"></code>
-  <code><img title="NodeJS" height="35" src="./icons/node_js.svg"></code>
-</p>
-<p align="center">
-  <code><img title="CSS" height="35" src="./icons/css.svg"></code>
-  <code><img title="BootStrap" height="35" src="./icons/bootstrap.svg"></code>
-  <code><img title="MySQL" height="35" src="./icons/mysql.svg"></code>
-  <code><img title="Git" height="35" src="./icons/git.svg"></code>
-  <code><img title="Google Cloud Platform" height="35" src="./icons/gcp.svg"></code>
-</p>
 
 </br>
 
